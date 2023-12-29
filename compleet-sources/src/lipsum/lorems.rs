@@ -1,5 +1,5 @@
 pub const LOREM_IPSUM: &[&str] = &[
-    "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,",
+    "alexandropov consectetuer adipiscing elit. Ut purus elit,",
     "vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum \
      gravida",
     "mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, \
