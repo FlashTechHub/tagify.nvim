@@ -1,5 +1,5 @@
-lua
 /target
 /Makefile
 /TODO.md
 /neovim
+/lua/deps
