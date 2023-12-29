@@ -88,6 +88,7 @@ name = "compleet-client"
 version = "0.1.0"
 dependencies = [
  "bindings",
+ "itertools",
  "mlua",
  "os_pipe",
  "parking_lot 0.10.2",

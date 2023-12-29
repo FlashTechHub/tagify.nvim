@@ -1,4 +1,5 @@
-#![feature(iter_intersperse)]
+// #![feature(iter_intersperse)]
+use itertools::intersperse;
 mod autocmds;
 mod channel;
 mod commands;
