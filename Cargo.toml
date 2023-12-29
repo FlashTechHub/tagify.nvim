@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+  "compleet-client",
+  "compleet-sources",
+  "nvim-bindings",
+]
+
+# Sacrifice compilation speed for runtime performance.
+[profile.release]
+lto = "fat"
+codegen-units = 1
